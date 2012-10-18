@@ -10,6 +10,6 @@ public class hello_world {
 			System.out.println("Hello world!");
 			System.out.println("Hello the other world!");
 			System.out.println("tjodat!");
+			System.out.println("Trying out new branch");
 	}
-
 }
